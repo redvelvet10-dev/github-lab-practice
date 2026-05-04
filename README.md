@@ -1,1 +1,1 @@
-# GitHub Lab Practice
+This is a Collaborative Project.
